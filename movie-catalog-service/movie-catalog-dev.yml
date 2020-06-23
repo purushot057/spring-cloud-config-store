@@ -6,8 +6,6 @@ logging:
 server:
   port: 8081
 spring:
-  application:
-    name: movie-catalog-service
   profiles:
     active: dev
   sleuth:
