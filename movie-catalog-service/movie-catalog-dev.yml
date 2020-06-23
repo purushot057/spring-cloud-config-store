@@ -1,10 +1,17 @@
-member:
- rent:
-  min: 8
-  max: 31
- price:
-  discount: 3
-vehicle:
- default:
-  model: cross over
-  duration: daily
+eureka:
+  instance:
+  instance-id: ${spring.application.name}-${random.int}
+logging:
+  config: file:///D:/STS Workspace/logback-spring.xml
+server:
+  port: 8081
+spring:
+  application:
+    name: movie-catalog-service
+  profiles:
+    active: dev
+  sleuth:
+    sampler:
+      probability: 1
+  zipkin:
+    base-url: http://localhost:9411
