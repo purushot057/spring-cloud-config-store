@@ -1,4 +1,4 @@
-password: password
+password: {cipher}62af932adc11562ec80618a38ea9482a238f808e76020d59085ba3b1a7435259
 orderId: 687
 eureka:
   instance:
