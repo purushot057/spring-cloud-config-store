@@ -1,3 +1,4 @@
+password: password
 orderId: 687
 eureka:
   instance:
