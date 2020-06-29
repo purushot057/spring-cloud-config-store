@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/rentDB?createDatabaseIfNotExist=true
     username: root
-    password: '{cipher}AQBCyeUUh5fZI13GzVgR0rLnWvFfFV3pB0/Gua1h+fGdgAJgGRFnPyS130jpGPqlXjkZPL6H8GXeC+vJAMDF5aAs6H06nqXRRGgA5RkUi9LLiX/8p6AoJUvuJNuuXovacQmN/8N/gw654SHj+11VjjVSSNtb64kaS7ZK2wEdf4V9FT6fFrBoQ7fBHYKqDtklDUg7R/l4EBetX1ZrDi18eLsAdfmQfh51B3vfX9t/yw/PtWdyOYjKhUOwJZOi4OnVTOmdGf1+UJTuSQ4lgMNWROiY7JbpB54iUcuWr4bH+un4o6g27Xy3k3V6q21u7iDbaxD9oYvCgZLbkdD6i/o/TorscyUkbX2tNaNgPxacdzK4jO1pvXcm0Iapqt1ImLivQxg='
+    password: '{cipher}d8273a5af7c12ba2a450c6bcf9131278d8afb3d029c8ca02fed9bfd8bc1e1dcd'
     driver-class-name: com.mysql.jdbc.Driver
   jpa:
     hibernate:
