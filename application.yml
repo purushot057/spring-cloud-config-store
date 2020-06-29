@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/rentDB?createDatabaseIfNotExist=true
     username: root
-    password: '{cipher}d8273a5af7c12ba2a450c6bcf9131278d8afb3d029c8ca02fed9bfd8bc1e1dcd'
+    password: '{cipher}ef9a0602e61264355f61335370f62ec584ab38908341f659d2c388b9b390e64d'
     driver-class-name: com.mysql.jdbc.Driver
   jpa:
     hibernate:
