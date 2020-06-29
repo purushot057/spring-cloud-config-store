@@ -1,4 +1,4 @@
-password: '{cipher}629381f4c6570a6819e8ed6dda3c643a6408df888f39a8e53680c5ffbb36087f'
+password: '{cipher}bd3ad537c34b19ba86068ad638ec35552ccf3dff1853267b5b2aabb662714722'
 eureka:
   instance:
   instance-id: ${spring.application.name}-${random.int}
